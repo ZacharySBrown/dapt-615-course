@@ -5,40 +5,39 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              Intro to Data Science
+title:              DAPT 615: Emerging Technologies
 description:        Website for the MS in Program Eval and Data Analytics Program, ASU
 
 # Site subpath, e.g. /blog
-baseurl:            "/course-template"
+baseurl:            "/dapt-615-course"
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink:          /:title/
 
 # Site base hostname & protocol, e.g. http://example.com
-url :               "https://ds4ps.github.io"
+url :               "https://zacharysbrown.github.io"
 
 # Site logo, image or text
 brand:
     image:          # logo.svg  # e.g. logo.png, upload logo image file to /assets/img/ folder
-    text:           Intro to Data Science      # if the above "logo:" image variable  is not set, this text logo is displayed instead
+    text:           Emerging Technologies      # if the above "logo:" image variable  is not set, this text logo is displayed instead
 
 # Default author settings
 author:
-    name:       Jesse Lecy
-    github:     lecy   # Github username for avatar
+    name:       Zachary S. Brown
+    github:     zacharysbrown   # Github username for avatar
 
 
 github_info:
-    username:          ds4ps                # Github location of the course
+    username:          zacharysbrown                # Github location of the course
     branch:            master               # branch where github page is hosted - see settings
-    website-repo:      course-template      # name of this current repo, contains course site files
-    course-repo:       Data-Science-Class   # location of course content files like data, textbook, labs, etc.
+    website-repo:      dapt-615-course      # name of this current repo, contains course site files
+    course-repo:       dapt-615-resources   # location of course content files like data, textbook, labs, etc.
 
 index:
-    title: Intro to Data Science for the Social Sector
+    title: Emerging Technologies
     image: imac.svg
-    subtitle: This course introduces students to the field of data science and its applications in the public sector. Modern performance management and evaluation processes require strong data literacy and the ability to combine and analyze data from a variety of sources to inform managerial processes. We offer a practical, tools-based approach that is designed to build strong foundations for people that want to work as policy analysts or data-driven managers. We will cover data programming fundamentals, visualization, text analysis, automated reporting, and dynamic reporting using dashboards. The course is analytically rigorous, but no prior programming experience is assumed.
-    
+    subtitle: The course emphasizes the study of a variety of big data technologies to gain insight that will be used to get people throughout the enterprise to run the business more effectively and to provide better service to customers. The course focuses on big data solutions that are processed in a platform that can handle the variety, velocity and volume of data by using a family of components that require integration and data governance.
 
 
 header:
