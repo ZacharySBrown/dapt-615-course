@@ -5,7 +5,7 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              DAPT 615: Emerging Technologies
+title:              DAPT 615 Emerging Technologies
 description:        Website for the MS in Program Eval and Data Analytics Program, ASU
 
 # Site subpath, e.g. /blog
